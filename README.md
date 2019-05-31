@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ChaseContentTesting/PipelineBuilding/_apis/build/status/chasewilson.pipelines-java?branchName=master)](https://dev.azure.com/ChaseContentTesting/PipelineBuilding/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
